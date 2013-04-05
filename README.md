@@ -1,5 +1,5 @@
 # Sublime Text 2 Color Schemes
-Color schemes for the Sublime Text 2 code editor (ST2). To install...
+Light white to grey color scheme for the Sublime Text 2 code editor (ST2). To install...
 
 1. Download the .tmtheme file you're interested in.
 2. Open your Sublime Text 2 package folder by launching Sublime and selecting "Preferences > Browse Packages..." from the main application menu.
