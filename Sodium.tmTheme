@@ -21,7 +21,7 @@
                 <string>#A5A5A536</string>
 
                 <key>selection</key>
-                <string>#C2E8FF</string>
+                <string>#C0E4FA</string>
 				<key>selectionBorder</key>
 				<string>#89A2B8</string>
 				
@@ -334,7 +334,7 @@
 				<key>fontStyle</key>
                 <string></string>
                 <key>background</key>
-                <string>#EEEEF3</string>
+                <string>#F6F6FF</string>
 			</dict>
 		</dict>
         <dict>
@@ -347,7 +347,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>background</key>
-                <string>#F5F5FA</string>
+                <string>#F4F4FF</string>
             </dict>
         </dict>
         <dict>
