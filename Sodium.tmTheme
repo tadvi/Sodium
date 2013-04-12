@@ -10,7 +10,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FFFFFF</string>
+                <string>#FAFAFA</string>
                 <key>caret</key>
                 <string>#000000</string>
                 <key>foreground</key>
@@ -21,10 +21,10 @@
                 <string>#A5A5A536</string>
 
                 <key>selection</key>
-                <string>#C0E4FA</string>
+                <string>#B0E0F5</string>
 				<key>selectionBorder</key>
 				<string>#89A2B8</string>
-				
+
 				<key>guide</key>
 				<string>#C5C5C5</string>
 
@@ -133,7 +133,7 @@
             <key>name</key>
             <string>Types</string>
             <key>scope</key>
-            <string>storage.type, support.type</string>
+            <string>storage.type, support.type, support.function</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -152,7 +152,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#9C1F1F</string>
+                <string>#BC670F</string>
             </dict>
         </dict>
         <dict>
@@ -165,7 +165,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#9F0C1F</string>
+                <string>#BC670F</string>
             </dict>
         </dict>
         <dict>
@@ -185,7 +185,7 @@
             <key>name</key>
             <string>Functions</string>
             <key>scope</key>
-            <string>entity.name.function, support.function, entity</string>
+            <string>entity.name.function, entity</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -241,7 +241,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#BC670F</string>
+                <string>#901010</string>
             </dict>
         </dict>
         <dict>
@@ -269,7 +269,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#BC670F</string>
+                <string>#901010</string>
             </dict>
         </dict>
         <dict>
@@ -282,7 +282,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#E69A4C</string>
+                <string>#901010</string>
             </dict>
         </dict>
         <dict>
@@ -334,7 +334,7 @@
 				<key>fontStyle</key>
                 <string></string>
                 <key>background</key>
-                <string>#F6F6FF</string>
+                <string>#F4F4FF</string>
 			</dict>
 		</dict>
         <dict>
@@ -347,7 +347,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>background</key>
-                <string>#F4F4FF</string>
+                <string>#F2F2FF</string>
             </dict>
         </dict>
         <dict>
