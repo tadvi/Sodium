@@ -10,26 +10,32 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FAFAFA</string>
+                <string>#FFFFFF</string>
                 <key>caret</key>
                 <string>#000000</string>
                 <key>foreground</key>
                 <string>#000000</string>
                 <key>invisibles</key>
-                <string>#E0E0E0</string>
+                <string>#C0C0C0</string>
+
                 <key>lineHighlight</key>
-                <string>#A5A5A536</string>
+                <string>#D0D0D0</string>
+
+                <key>gutter</key>
+				<string>#F5F5F5</string>
+				<key>gutterForeground</key>
+				<string>#858585</string>
 
                 <key>selection</key>
                 <string>#B0E0F5</string>
 				<key>selectionBorder</key>
 				<string>#89A2B8</string>
+				<key>inactiveSelection</key>
+                <string>#CDCDCD</string>
 
 				<key>guide</key>
 				<string>#C5C5C5</string>
 
-                <key>inactiveSelection</key>
-                <string>#EDEDED</string>
                 <key>findHighlight</key>
                 <string>#FFE792</string>
                 <key>findHighlightForeground</key>
@@ -133,7 +139,7 @@
             <key>name</key>
             <string>Types</string>
             <key>scope</key>
-            <string>storage.type, support.type, support.function</string>
+            <string>variable.language</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -146,7 +152,7 @@
             <key>name</key>
             <string>Language Constants</string>
             <key>scope</key>
-            <string>constant.language, support.constant, variable.language</string>
+            <string>constant.language, support.constant, support.function, storage.type, support.type</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -165,7 +171,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#BC670F</string>
+                <string>#17700F</string>
             </dict>
         </dict>
         <dict>
@@ -334,7 +340,7 @@
 				<key>fontStyle</key>
                 <string></string>
                 <key>background</key>
-                <string>#F4F4FF</string>
+                <string>#FFFFFF</string>
 			</dict>
 		</dict>
         <dict>
@@ -347,7 +353,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>background</key>
-                <string>#F2F2FF</string>
+                <string>#F5F5FF</string>
             </dict>
         </dict>
         <dict>
